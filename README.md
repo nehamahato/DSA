@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nehamahato/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nehamahato/DSA/tree/master/0088-merge-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/nehamahato/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
