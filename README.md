@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nehamahato/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nehamahato/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nehamahato/DSA/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/nehamahato/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nehamahato/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nehamahato/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -59,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
