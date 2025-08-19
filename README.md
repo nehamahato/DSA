@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nehamahato/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nehamahato/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nehamahato/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nehamahato/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nehamahato/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nehamahato/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nehamahato/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nehamahato/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nehamahato/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nehamahato/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nehamahato/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nehamahato/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nehamahato/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nehamahato/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/nehamahato/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/nehamahato/DSA/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nehamahato/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/nehamahato/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
