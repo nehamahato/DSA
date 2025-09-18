@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nehamahato/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/nehamahato/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/nehamahato/DSA/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/nehamahato/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/nehamahato/DSA/tree/master/1168-duplicate-zeros) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/nehamahato/DSA/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nehamahato/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/nehamahato/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/nehamahato/DSA/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
